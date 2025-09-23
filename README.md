@@ -1,18 +1,57 @@
-<h1 align="center">Hi there 👋, I'm Nikhil Radhakrishna</h1>
-<h3 align="center">I'm a passionate Senior QA Automation Engineer with over a decade of experience in thefinancial and technology sectors. I'm driven by a commitment to quality and specialize in building robust, scalable test automation frameworks. My core skills include developing custom frameworks, excelling at backend, Web and API automation, and integrating these processes to create efficient CI/CD pipelines.</h3>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nikhil+Radhakrishna!+😎;+Welcome+to+my+profile!!+;" />
+</div>
+<br>
 
-- 🌱 I’m currently learning **Playwright and Robot Framework**
+## 🙋‍♂️ About Me:
 
-- 📫 How to reach me **nikhilinnominder@gmail.com**
+<h4 align="left" style="line-height: 1.8;">
+  I'm a passionate QA-Test Automation Engineer with over a decade of experience in the financial and technology sectors.<br><br>
+  I'm driven by a commitment to quality and specialize in building robust, scalable test automation frameworks.<br><br>
+  My core skills include developing custom frameworks, excelling at backend, Web and API automation, and integrating <br><br>
+  these processes to create efficient CI/CD pipelines.</h4>
+<br>
+- 🔭 I’m currently working as a **Test Analyst** | **API Test Automation** | **WEB Test Automation** | **Test Governancer** .
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nikhilrkrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nikhilrkrishna" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23754946/nikhilkriz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23754946/nikhilkriz" height="30" width="40" /></a>
-</p>
+- 🌱  I’m currently learning **Playwright and Robot Framework**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+- 📫 Reach me at **nikhilinnominder@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilradhakrishna&show_icons=true&locale=en&layout=compact" alt="nikhilradhakrishna" /></p>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
+
+## 🚀 Languages and Tools:
+
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,c,gherkin,selenium,mysql" />
+    <img src="https://skillicons.dev/icons?i=github,postman,gitlab,jenkins,gradle,maven" /><br>
+</div>
+<br>
+<div align="left">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+## 🤝 Connect With Me:
+
+<div align="left">
+    <a href="https://linkedin.com/in/nikhilrkrishna/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+  <a href="mailto:nikhilinnominder@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
+
+<br>
+<div align="left">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;">
+</h3>
+
+<br/>
