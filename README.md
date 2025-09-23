@@ -6,7 +6,6 @@
 ## 🙋‍♂️ About Me:
 
 <h4 align="left" style="line-height: 1.8;">
-  I'm a passionate QA-Test Automation Engineer with over a decade of experience in the financial and technology sectors.<br><br>
   I'm driven by a commitment to quality and specialize in building robust, scalable test automation frameworks.<br><br>
   My core skills include developing custom frameworks, excelling at backend, Web and API automation, and integrating <br><br>
   these processes to create efficient CI/CD pipelines.</h4>
