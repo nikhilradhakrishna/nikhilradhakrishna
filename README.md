@@ -11,6 +11,7 @@
   My core skills include developing custom frameworks, excelling at backend, Web and API automation, and integrating <br><br>
   these processes to create efficient CI/CD pipelines.</h4>
 <br>
+
 - 🔭 I’m currently working as a **Test Analyst** | **API Test Automation** | **WEB Test Automation** | **Test Governancer** .
 
 - 🌱  I’m currently learning **Playwright and Robot Framework**.
