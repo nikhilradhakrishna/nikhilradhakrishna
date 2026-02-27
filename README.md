@@ -6,14 +6,14 @@
 ## 🙋‍♂️ About Me:
 
 <h4 align="left" style="line-height: 1.8;">
-  I'm driven by a commitment to quality and specialize in building robust, scalable test automation frameworks.<br><br>
-  My core skills include developing custom frameworks, excelling at backend, Web and API automation, and integrating <br><br>
-  these processes to create efficient CI/CD pipelines.</h4>
+ I am an automation leader committed to building a strong culture of quality within engineering organizations. I design and drive automation strategies that align with business goals, ensuring scalable, reliable, and high-performing software delivery.
+
+With proven experience mentoring engineers and collaborating with cross-functional stakeholders, I embed shift-left testing practices into agile teams to improve release confidence and reduce production risk.
+
+Beyond implementation, I focus on enabling teams — establishing standards, guiding best practices, and building sustainable automation frameworks that deliver measurable improvements in speed, stability, and quality.</h4>
 <br>
 
-- 🔭 I’m currently working as a **Test Analyst** | **API Test Automation** | **WEB Test Automation** | **Test Governance** .
-
-- 🌱  I’m currently learning **Playwright and Robot Framework**.
+- 🔭 Currently working as a **Test Analyst** specializing in API and Web Automation, contributing to robust quality standards through effective Test Governance.
 
 - 📫 Reach me at **nikhilinnominder@gmail.com**
 
