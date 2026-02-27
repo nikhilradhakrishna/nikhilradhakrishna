@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me:
 
 <h4 align="left" style="line-height: 1.8;">
- I am an automation leader committed to building a strong culture of quality within engineering organizations. I design and drive automation strategies that align with business goals, ensuring scalable, reliable, and high-performing software delivery.
+ I am an automation engineer committed to building a strong culture of quality within engineering organizations. I design and drive automation strategies that align with business goals, ensuring scalable, reliable, and high-performing software delivery.
 
 With proven experience mentoring engineers and collaborating with cross-functional stakeholders, I embed shift-left testing practices into agile teams to improve release confidence and reduce production risk.
 
