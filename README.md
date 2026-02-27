@@ -11,7 +11,6 @@
 With proven experience mentoring engineers and collaborating with cross-functional stakeholders, I embed shift-left testing practices into agile teams to improve release confidence and reduce production risk.
 
 Beyond implementation, I focus on enabling teams — establishing standards, guiding best practices, and building sustainable automation frameworks that deliver measurable improvements in speed, stability, and quality.</h4>
-<br>
 
 - 🔭 Currently working as a **Test Analyst** specializing in API and Web Automation, contributing to robust quality standards through effective Test Governance.
 
